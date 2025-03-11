@@ -2,6 +2,7 @@ package Hash;
 
 import java.util.*;
 
+// 완주하지 못한 선수 
 public class DNF {
 	 public String solution(String[] participant, String[] completion) {
 	        String answer = "";
